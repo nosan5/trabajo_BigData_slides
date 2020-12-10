@@ -8,10 +8,10 @@ página web de la asignatura puede verse aquí:
 <a href="https://perezp44.github.io/intro-ds-20-21-web/" class="uri">https://perezp44.github.io/intro-ds-20-21-web/</a>.
 
 La versión final de estas transparencias puede visualizarse en:
-<a href="https://nosan5.github.io/_trabajo_BigData_slides/" class="uri">https://nosan5.github.io/_trabajo_BigData_slides/</a>.
+<a href="https://nosan5.github.io/trabajo_BigData_slides/" class="uri">https://nosan5.github.io/trabajo_BigData_slides/</a>.
 
 La versión final del trabajo puede visualizarse en:
-<a href="https://nosan5.github.io/_trabajo_BigData_equipo/" class="uri">https://nosan5.github.io/_trabajo_BigData_equipo/</a>.
+<a href="https://nosan5.github.io/trabajo_BigData_equipo/" class="uri">https://nosan5.github.io/trabajo_BigData_equipo/</a>.
 
 El presente trabajo **“ANÁLISIS SOBRE LA COVID-19”**, ha sido realizado
 por Ignacio Montava, Andreu Esparza y Noelia Sánchez para la asignatura
